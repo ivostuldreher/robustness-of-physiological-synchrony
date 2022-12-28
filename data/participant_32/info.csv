@@ -1,0 +1,76 @@
+,questions,answers
+0,Participant ID,32
+1,Age,
+2,Gender,Male
+3,video_0_condition_0_In hoeverre was je aandacht gericht op de film?,0.9145833333333333
+4,video_0_condition_0_In hoeverre was je aandacht gericht op de taak?,0.9625
+5,video_0_condition_0_Wat is de kleur van de dienstauto van de chauffeur?,zwart
+6,video_0_condition_0_Wat vraagt de chauffeur aan de twee kinderen die vlak bij zijn auto staan op het schoolplein?,Of ze daar op school zitten en daarna of ze Tom naar zn auto kunnen halen
+7,video_0_condition_0_Hoe heet de jongen die met de chauffeur mee gaat?,Tom
+8,video_0_condition_0_Wat belooft de chauffeur de jongen als hij mee gaat?,Dat hij de witte kleine auto krijgt
+9,video_0_condition_0_Wat doen de chauffeur en de jongen in de auto op het afgelegen terrein?,Mcdonalds eten en het drinken in de auto omver stoten
+10,video_0_condition_0_Wat doen de chauffeur en de jongen nadat de jongen zelf een stukje heeft gereden?,Naar de mcdonalds gaan
+11,video_0_condition_0_Wat bestelt de jongen bij het restaurant?,Happymeal
+12,video_0_condition_0_Wat is de relatie tussen de jongen en de chauffeur?,Vader zoon
+13,video_0_condition_0_Waarom wordt de chauffeur boos en zegt hij ‘godverdomme’ tegen de jongen in de auto?,Hij heeft het drinken omgestoten daardat ie raar deed met zn benen
+14,video_0_condition_0_Wat zegt de chauffeur tegen de moeder van de jongen?,Niks vgm
+15,video_1_condition_1_In hoeverre was je aandacht gericht op de film?,-0.30416666666666664
+16,video_1_condition_1_In hoeverre was je aandacht gericht op de taak?,0.5416666666666664
+17,video_1_condition_1_Wat is de naam van deze film?,Geen idee
+18,video_1_condition_1_Is de pizzabezorger blij met zijn fooi?,Nee
+19,video_1_condition_1_Hoe heet de pizzabezorger?,Machid ofzo
+20,video_1_condition_1_Op wat voor kleur scooter rijdt de pizzabezorger?,zwart met rode doos
+21,video_1_condition_1_Welke kleur kleren heeft de baby?,Wit denk ik
+22,video_1_condition_1_Waar verstopt Rachid de baby voor zijn vrienden en collega's buiten het pizzarestaurant?,In de pizzadoos
+23,video_1_condition_1_Waarom zet de pizzabezorger de muziek op zijn kamer ineens zo hard?,Zodat zn huisgenoten het gehuil niet horen
+24,video_1_condition_1_Hoe heet het pizzarestaurant waar de bezorger voor werkt?,Geen idee
+25,video_1_condition_1_Waar geeft de pizzabezorger de baby af?,Ziekenhuis ofzo
+26,video_1_condition_1_Welke dieren bekeken de pizzabezorger en baby?,Lammetje
+27,video_2_condition_0_In hoeverre was je aandacht gericht op de film?,0.9354166666666667
+28,video_2_condition_0_In hoeverre was je aandacht gericht op de taak?,-0.9291666666666667
+29,video_2_condition_0_Wat bestelt de vrouw in het begin van de film?,Kippensoep met extra veel kip
+30,"video_2_condition_0_Aan wie doet de man, die aan een van de andere tafels zit, de vrouwelijke hoofdpersoon aan denken?",Wim ofzo het rijmde op toepetje
+31,video_2_condition_0_In welke ijs heeft de vrouwelijke hoofdpersoon zin?,Dame Blance
+32,video_2_condition_0_Waroom zingt iedereen in het restaurant voor de vrouwelijke hoofdpersoon?,Ze is jarig
+33,video_2_condition_0_Waarom is het niet gek dat de personen tegenover de vrouwelijke hoofdpersoon op elkaar lijken?,Het zijn broer zus
+34,video_2_condition_0_Hoe komen de gasten in het restaurant over op de persoon die op het einde binnenkomt om Chinees af te halen?,Als een grote famillie 
+35,video_2_condition_0_Hoeveel sterretjes stonden er op de taart?,Oef die is erg lastig maar denk 3
+36,video_2_condition_0_Wat was er aan de hand met de vrouw van Fred?,Dementie
+37,video_2_condition_0_Hoe heet de zoon van de vrouwelijke hoofdpersoon?,Geen idee
+38,"video_2_condition_0_Hoe dacht de vrouwelijke hoofdpersoon dat de groep jonge mensen elkaar zou kennen, en wat was dat daadwerkelijke?",Werkuitje wat het daadwerkelijk was weet ik niet
+39,video_4_condition_1_In hoeverre was je aandacht gericht op de film?,-0.6791666666666667
+40,video_4_condition_1_In hoeverre was je aandacht gericht op de taak?,0.6875
+41,video_4_condition_1_Wat is de naam van deze film?,Geen idee
+42,video_4_condition_1_Hoe komt Samual aan geld?,Bedelen
+43,video_4_condition_1_Wat staat er op het briefje dat Samual bij zich had?,Geen idee
+44,video_4_condition_1_Wat doet Samual met het muntgeld?,Hij probeerde te bellen
+45,video_4_condition_1_Waarom is Samual in Amsterdam?,Voor zn dochter gok ik
+46,video_4_condition_1_Waar zijn volgens Samual de dromen van de toekomst?,Aan de andere kant  van de wereld of in vrijheid ofzo
+47,video_4_condition_1_Aan wie wil Samual een briefje geven bij vertrek uit het politiebureau?,Het meisje achter het hek
+48,video_4_condition_1_Aan wie doet het meisje in het kinderdagverblijf samual denken?,Zn dochter
+49,video_4_condition_1_Hoe maakt de geldwisselaar duidelijk dat hij geen geld kan wisselen?,Geen idee maar gok door nee te schuden
+50,video_4_condition_1_Wat staat er op het raam van het kinderdagverblijf geschilderd?,Geen idee
+51,video_5_condition_0_In hoeverre was je aandacht gericht op de film?,0.9291666666666667
+52,video_5_condition_0_In hoeverre was je aandacht gericht op de taak?,-0.9479166666666666
+53,video_5_condition_0_Wie is 'het lekkerste wijf op het feest?',Danielle maar dat is helemaal een gokje
+54,video_5_condition_0_Aan wie wordt hoofdpersoon Bram op zijn verzoek voorgesteld?,Weet ik al niet meer
+55,video_5_condition_0_Waar komt Florian vandaan?,Amsterdam
+56,video_5_condition_0_Bij welke term schrikt Bram terwijl zijn hand dichter naar die van Florian kruipt?,Flikker vgm
+57,video_5_condition_0_Wat is de reden dat Bram en Florian naar buiten gaan?,Omdat Florian zogezegd het binnen te druk vindt en Bram gaat achter hem aan
+58,video_5_condition_0_Waarom kan Bram niet mee naar het festival waar Florian ook heen gaat?,Geen kaartjes ofzo
+59,video_5_condition_0_Welk spel speelt de groep in deze film?,Flesje draaien
+60,video_5_condition_0_Waarom wilt Bram tegen het einde van de film nog flesje draaien?,Hij heeft Florian nog niet aangetikt
+61,video_5_condition_0_Komt het flesje van Bram uit bij Florian?,Nee
+62,video_5_condition_0_Wat is de kleur van het etiket op het flesje?,Wit
+63,video_3_condition_1_In hoeverre was je aandacht gericht op de film?,-0.6958333333333333
+64,video_3_condition_1_In hoeverre was je aandacht gericht op de taak?,0.775
+65,video_3_condition_1_Wat voor fruit ligt er in de kleedkamer?,Geen idee
+66,video_3_condition_1_Waar is de hoofdpersoon op vakantie geweest?,Drente
+67,video_3_condition_1_Wat is volgens de hoofdrolspeler een wet van de natuur?,Dat meisjes mooier worder in de zomervakantie
+68,video_3_condition_1_Hoe heet de hoofdrolspeler?,Geen idee
+69,video_3_condition_1_Waarom wordt de hoofdrolspeler boos en agressief?,Omdat een meisje op aangerand wordt
+70,video_3_condition_1_Wat doet de hoofdrolspeler wanneer hij samen met het meisje in de kleedkamer is?,Hij kust haar
+71,video_3_condition_1_Welke sport speelt het team in deze film?,Handbal
+72,video_3_condition_1_Wat staat er op het briefje dat aan de muur hangt in de kleedkamer?,Geen idee
+73,video_3_condition_1_Welke kleur heeft de bal?,Wit met blauw maar dat is een gokje
+74,video_3_condition_1_Welke kleur is het shirt dat de gezette jongen draagt?,Lichtblauw

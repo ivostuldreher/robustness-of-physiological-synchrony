@@ -1,0 +1,76 @@
+,questions,answers
+0,Participant ID,40
+1,Age,
+2,Gender,Female
+3,video_1_condition_0_In hoeverre was je aandacht gericht op de film?,0.8083333333333333
+4,video_1_condition_0_In hoeverre was je aandacht gericht op de taak?,-1.0
+5,video_1_condition_0_Wat is de naam van deze film?, Geen idee  
+6,video_1_condition_0_Is de pizzabezorger blij met zijn fooi?,Nee
+7,video_1_condition_0_Hoe heet de pizzabezorger?,Rachid
+8,video_1_condition_0_Op wat voor kleur scooter rijdt de pizzabezorger?,Rood
+9,video_1_condition_0_Welke kleur kleren heeft de baby?,Blauw
+10,video_1_condition_0_Waar verstopt Rachid de baby voor zijn vrienden en collega's buiten het pizzarestaurant?,In de koffer van zijn scooter
+11,video_1_condition_0_Waarom zet de pizzabezorger de muziek op zijn kamer ineens zo hard?,Omdat de baby huilt
+12,video_1_condition_0_Hoe heet het pizzarestaurant waar de bezorger voor werkt?,Geen idee
+13,video_1_condition_0_Waar geeft de pizzabezorger de baby af?,Bij het ziekenhuis
+14,video_1_condition_0_Welke dieren bekeken de pizzabezorger en baby?,Geiten
+15,video_4_condition_1_In hoeverre was je aandacht gericht op de film?,-0.07083333333333333
+16,video_4_condition_1_In hoeverre was je aandacht gericht op de taak?,0.3541666666666667
+17,video_4_condition_1_Wat is de naam van deze film?, Samual
+18,video_4_condition_1_Hoe komt Samual aan geld?,Hij bedelt
+19,video_4_condition_1_Wat staat er op het briefje dat Samual bij zich had?,Een telefoonnummer
+20,video_4_condition_1_Wat doet Samual met het muntgeld?,Hij wil ermee bellen
+21,video_4_condition_1_Waarom is Samual in Amsterdam?,Zijn dochter woont daar
+22,video_4_condition_1_Waar zijn volgens Samual de dromen van de toekomst?,Aan de andere kant van de zee
+23,video_4_condition_1_Aan wie wil Samual een briefje geven bij vertrek uit het politiebureau?,Aan een meisje die naast het politiebureau verblijft
+24,video_4_condition_1_Aan wie doet het meisje in het kinderdagverblijf samual denken?,Aan zijn eigen dochter
+25,video_4_condition_1_Hoe maakt de geldwisselaar duidelijk dat hij geen geld kan wisselen?,Hij maakt een wegwuifgebaar met zijn hand
+26,video_4_condition_1_Wat staat er op het raam van het kinderdagverblijf geschilderd?,Geen idee
+27,video_5_condition_0_In hoeverre was je aandacht gericht op de film?,0.8083333333333333
+28,video_5_condition_0_In hoeverre was je aandacht gericht op de taak?,-0.8541666666666666
+29,video_5_condition_0_Wie is 'het lekkerste wijf op het feest?',Denise
+30,video_5_condition_0_Aan wie wordt hoofdpersoon Bram op zijn verzoek voorgesteld?,Frank
+31,video_5_condition_0_Waar komt Florian vandaan?,Amsterdam
+32,video_5_condition_0_Bij welke term schrikt Bram terwijl zijn hand dichter naar die van Florian kruipt?,Geen idee
+33,video_5_condition_0_Wat is de reden dat Bram en Florian naar buiten gaan?,Ze vinden het te druk binnen
+34,video_5_condition_0_Waarom kan Bram niet mee naar het festival waar Florian ook heen gaat?,De kaartjes waren uitverkocht
+35,video_5_condition_0_Welk spel speelt de groep in deze film?,Turn it around
+36,video_5_condition_0_Waarom wilt Bram tegen het einde van de film nog flesje draaien?,Omdat hij nog een kans wil om Florian te kussen
+37,video_5_condition_0_Komt het flesje van Bram uit bij Florian?,Nee
+38,video_5_condition_0_Wat is de kleur van het etiket op het flesje?,Groen
+39,video_2_condition_1_In hoeverre was je aandacht gericht op de film?,0.2604166666666667
+40,video_2_condition_1_In hoeverre was je aandacht gericht op de taak?,0.5375
+41,video_2_condition_1_Wat bestelt de vrouw in het begin van de film?,Tomatensoep met veel kip
+42,"video_2_condition_1_Aan wie doet de man, die aan een van de andere tafels zit, de vrouwelijke hoofdpersoon aan denken?",Aan Fred
+43,video_2_condition_1_In welke ijs heeft de vrouwelijke hoofdpersoon zin?,Geen idee
+44,video_2_condition_1_Waroom zingt iedereen in het restaurant voor de vrouwelijke hoofdpersoon?,Omdat ze jarig is
+45,video_2_condition_1_Waarom is het niet gek dat de personen tegenover de vrouwelijke hoofdpersoon op elkaar lijken?,Omdat ze broer en zus zijn
+46,video_2_condition_1_Hoe komen de gasten in het restaurant over op de persoon die op het einde binnenkomt om Chinees af te halen?,Het lijkt 1 grote familie
+47,video_2_condition_1_Hoeveel sterretjes stonden er op de taart?,3
+48,video_2_condition_1_Wat was er aan de hand met de vrouw van Fred?,Ze is een beetje eenzaam omdat ze alleen haar verjaardag viert
+49,video_2_condition_1_Hoe heet de zoon van de vrouwelijke hoofdpersoon?,Geen idee
+50,"video_2_condition_1_Hoe dacht de vrouwelijke hoofdpersoon dat de groep jonge mensen elkaar zou kennen, en wat was dat daadwerkelijke?",Computers maar hoe ze elkaar echt kenden heb ik niet begrepen
+51,video_3_condition_0_In hoeverre was je aandacht gericht op de film?,0.7270833333333333
+52,video_3_condition_0_In hoeverre was je aandacht gericht op de taak?,-0.6395833333333333
+53,video_3_condition_0_Wat voor fruit ligt er in de kleedkamer?,Geen idee
+54,video_3_condition_0_Waar is de hoofdpersoon op vakantie geweest?,Drenthe
+55,video_3_condition_0_Wat is volgens de hoofdrolspeler een wet van de natuur?,Dat alle meisjes in de vakantie mooier worden
+56,video_3_condition_0_Hoe heet de hoofdrolspeler?,Daan
+57,video_3_condition_0_Waarom wordt de hoofdrolspeler boos en agressief?,Omdat de andere jongens uit zijn team steeds aan het meisje zitten dat hij leuk vindt
+58,video_3_condition_0_Wat doet de hoofdrolspeler wanneer hij samen met het meisje in de kleedkamer is?,Hij troost het meisje en kust haar daarna
+59,video_3_condition_0_Welke sport speelt het team in deze film?,Korfbal
+60,video_3_condition_0_Wat staat er op het briefje dat aan de muur hangt in de kleedkamer?,Dat kon ik niet lezen
+61,video_3_condition_0_Welke kleur heeft de bal?,Wit met blauwe vlakken
+62,video_3_condition_0_Welke kleur is het shirt dat de gezette jongen draagt?,Blauw
+63,video_0_condition_1_In hoeverre was je aandacht gericht op de film?,0.10416666666666667
+64,video_0_condition_1_In hoeverre was je aandacht gericht op de taak?,0.56875
+65,video_0_condition_1_Wat is de kleur van de dienstauto van de chauffeur?,Zwart
+66,video_0_condition_1_Wat vraagt de chauffeur aan de twee kinderen die vlak bij zijn auto staan op het schoolplein?,Of ze Tom even voor hem willen halen
+67,video_0_condition_1_Hoe heet de jongen die met de chauffeur mee gaat?,Tom
+68,video_0_condition_1_Wat belooft de chauffeur de jongen als hij mee gaat?,Een klein wit modelautootje
+69,video_0_condition_1_Wat doen de chauffeur en de jongen in de auto op het afgelegen terrein?,Daar mag de jongen even rijden
+70,video_0_condition_1_Wat doen de chauffeur en de jongen nadat de jongen zelf een stukje heeft gereden?,Dan gaan ze naar de McDonalds om eten te bestellen
+71,video_0_condition_1_Wat bestelt de jongen bij het restaurant?,Een BigMac en een vanille milkshake
+72,video_0_condition_1_Wat is de relatie tussen de jongen en de chauffeur?,De jongen is de zoon van de chauffeur
+73,video_0_condition_1_Waarom wordt de chauffeur boos en zegt hij ‘godverdomme’ tegen de jongen in de auto?,Omdat de jongen zijn milkshake omgooit in de auto
+74,video_0_condition_1_Wat zegt de chauffeur tegen de moeder van de jongen?,Niets
