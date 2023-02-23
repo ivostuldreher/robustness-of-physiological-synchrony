@@ -22,8 +22,8 @@ clearvars; close all;
 
 addpath('./functions')
 
-flag_load_new = true;
-flag_compute_synchrony = true;
+flag_load_new = false;
+flag_compute_synchrony = false;
 
 %% SPECIFY PATHS AND EPOCHS
 % specify filepath and find files in the subdirectories corresponding to
@@ -193,6 +193,19 @@ if flag_load_new
     end
 end
 
+if ~flag_load_new
+    for n1 = 1 : number_subdirs
+
+        path_to_subdir = fullfile(path_to_data, subdirs{n1});
+        id = str2double(subdirs{n1}(13:end));
+
+        data(id) = load(fullfile(path_to_subdir, 'data_processed.mat'));
+
+    end
+    
+    number_participants = length(data);
+end
+
 % cut physiological data in epochs, where each epoch corresponds to one of
 % the six presented movies
 signals = {'hr', 'eda', 'scr'};
@@ -232,15 +245,16 @@ for s1 = 1 : length(signals)
                         data(n1).epoch(e1).(signals{s1}).discard = true;
                     end
                 elseif strcmp(signals{s1}, 'scr')
-                    [~, ~, data(n1).epoch(e1).(signals{s1}).discard] = preprocess_eda(data(n1).epoch(e1).eda.data, data(n1).epoch(e1).eda.fs);
                     if isempty(data(n1).epoch(e1).(signals{s1}).data)
                         data(n1).epoch(e1).(signals{s1}).discard = true;
+                        continue
                     end
-                    
+                    [~, ~, data(n1).epoch(e1).(signals{s1}).discard] = preprocess_eda(data(n1).epoch(e1).eda.data, data(n1).epoch(e1).eda.fs);
                     if sum(isnan(data(n1).epoch(e1).(signals{s1}).data)) / length(data(n1).epoch(e1).(signals{s1}).data) > 0.3
                         data(n1).epoch(e1).(signals{s1}).discard = true;
                     end
-                end               
+                end    
+                discarded{s1}(n1,e1) = data(n1).epoch(e1).(signals{s1}).discard;
             end
         end
     end
@@ -298,6 +312,21 @@ for s1 = 1 : length(signals)
         fprintf('Correlations between inter-subject correlations in %s during %s and number of correct answers on movie questions: r = %.2f, p = %.3f\n', signals{s1}, epoch_title{e1}, rho(s1,e1), p(s1,e1));
     end
     fprintf('Correlations between inter-subject correlations in %s and number of correct answers on movie questions when aggregating over movies: r = %.2f, p = %.3f\n', signals{s1}, rho(s1,7), p(s1,7));
+end
+
+%% EFFECT OF MOVIE AND CONDITION ON INTER-SUBJECT CORRELATIONS
+% perform ANOVA with independent variables movie and condition
+independent_variables = {'movie', 'condition'};
+signals = {'hr', 'scr'};
+[p, tbl, stats] = statitical_testing(data, r_to_group, epoch_order_overview, epoch_condition_overview, independent_variables, signals);
+
+is_different = {' not', ''};
+for s1 = 1 : length(signals)
+    fprintf('Inter-subject correlations in %s are%s significantly different between movies (F(%i) = %.2f, p = %.3f) and are%s significantly different between MA and TA conditions (F(%i) = %.2f, p = %.3f). \n', ...
+        signals{s1}, is_different{(p{s1}(1)<.05)+1}, ...
+        tbl{s1}{2,3}, tbl{s1}{2,6}, p{s1}(1), ...
+        is_different{(p{s1}(2)<.05)+1}, ...
+        tbl{s1}{3,3}, tbl{s1}{3,6}, p{s1}(2));
 end
 
 %% COMBINE EPOCHS BASED ON LATING SQAURE
